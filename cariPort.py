@@ -180,9 +180,9 @@ def telnet_obtain_image_name(session):
 	
 
 # seting source ip switchnya
-switch_ip_file = 'allSw147.txt'
+switch_ip_file = 'allSw.txt'
 # seting export csvnya
-result_file = 'allSw147.csv'
+result_file = 'allSw.csv'
 separator = ';'
 result_list = list()
 
